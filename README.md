@@ -23,3 +23,4 @@ The service worker can serve a cached stale preview until its cache version chan
 Input: `/workspace/realmbound-five-rounds/round-02/aistudio-partial/partial-index.html`  
 Input SHA-256: `4056b0683cef69614820bfaf7ce1021912bd41c271dcec9a812eef06d4a70ce6`  
 The source checkpoint was not modified. The packaged HTML necessarily has a different SHA-256 because of the documented PWA metadata changes.
+Android Chrome installation and physical touch controls have not yet been verified.
